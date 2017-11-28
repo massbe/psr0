@@ -1,7 +1,6 @@
 {
-  "autoload": {
-    "psr-0": {
-      "Users": "./Users"
-    }
+  "autoload":
+  {
+    "psr-0": { "Users\\": "" }
   }
 }

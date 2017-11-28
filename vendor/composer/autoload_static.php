@@ -9,9 +9,9 @@ class ComposerStaticInitc17bcf9bfd14bfe50ecfd33abe3a2d0d
     public static $prefixesPsr0 = array (
         'U' => 
         array (
-            'Users' => 
+            'Users\\' => 
             array (
-                0 => __DIR__ . '/../..' . '/Users',
+                0 => __DIR__ . '/../..' . '/',
             ),
         ),
     );
